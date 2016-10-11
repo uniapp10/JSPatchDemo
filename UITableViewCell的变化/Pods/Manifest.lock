@@ -1,0 +1,17 @@
+PODS:
+  - JSPatchPlatform (1.6.2):
+    - JSPatchPlatform/Core (= 1.6.2)
+  - JSPatchPlatform/Core (1.6.2)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - JSPatchPlatform
+  - Masonry (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  JSPatchPlatform: 105e331f1b899a397d2bc0300a9ace9f9d7b8f08
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 23c2d084e224eae2a3af55ad7c67ceb08bbf7ccf
+
+COCOAPODS: 1.0.1
