@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C2D2F97F9755BAE4B75174E0BF3F58A2F1A23CD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B68B1C5B1573AEA2C8F8E4ADE6B36DA86059859B" : 9223372036854775807,
+    "8C2D2F97F9755BAE4B75174E0BF3F58A2F1A23CD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BCF5A0C0-B0DA-458B-AED1-2C5C575ECB43",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B68B1C5B1573AEA2C8F8E4ADE6B36DA86059859B" : "",
+    "8C2D2F97F9755BAE4B75174E0BF3F58A2F1A23CD" : "JSPatch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UITableViewCell的变化",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UITableViewCell的变化\/UITableViewCell的变化.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhudong10\/JSPatchDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C2D2F97F9755BAE4B75174E0BF3F58A2F1A23CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhudong10\/ZDZhiBoTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B68B1C5B1573AEA2C8F8E4ADE6B36DA86059859B"
+    }
+  ]
+}

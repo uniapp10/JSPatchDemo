@@ -28,12 +28,12 @@ defineClass("ViewController",[],{
             },
             },{})
 //调用未覆盖前的实例方法
-//defineClass("ViewController", {
-//            viewDidLoad: function() {
-//            self.ORIGviewDidLoad();
-//            self.testLog();
-//            },
-//            })
+defineClass("ViewController", {
+            viewDidLoad: function() {
+            self.ORIGviewDidLoad();
+            self.testLog();
+            },
+            })
 //覆盖类方法
 defineClass("ViewController", {}, {
             testLogOne: function(){
